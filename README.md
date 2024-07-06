@@ -1,6 +1,4 @@
-### Hi!
-
-I'm Maxim, a front-end developer.
+### Hi! I'm Maxim, a front-end developer.
 
 You can check out my projects [here](https://lavent.space/projects).
 
